@@ -5,8 +5,11 @@ public class CardPayment {
 	public void cardDebitPay()
 	{
 
-		int amount1=2000;
+
+		int amount1=3000;
 		System.out.println(amount1);
+		System.out.println("hello");
+
 
 	}
 
